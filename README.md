@@ -9,11 +9,13 @@ My Name Is Ferizqo, I'am 17 y.o
 - Learning for new experience.
 - Developing bot discord, website, apps(soon)
 
+**Social Media**
 
+![Instagram](https://instagram.com/ferizqo)
+![Discord](https://discord.c99.nl/widget/theme-3/699502281099575428.png)
 
 **Stats**
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferizqoo&layout=compact&theme=tokyonight)](https://github.com/ferizqoo)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferizqoo)](https://github.com/anuraghazra/github-readme-stats)
 [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=ferizqoo&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/ferizqoo)
