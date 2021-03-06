@@ -9,9 +9,11 @@ My Name Is Ferizqo, I'am 17 y.o
 - Learning for new experience.
 - Developing bot discord, website, apps(soon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferizqoo&layout=compact)](https://github.com/ferizqoo/github-readme-stats)
 
 
 **Stats**
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferizqoo&layout=compact)](https://github.com/ferizqoo/github-readme-stats)
+[![ferizqoo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferizqoo)](https://github.com/ferizqoo/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferizqoo&theme=gradient" />
