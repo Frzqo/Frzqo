@@ -13,6 +13,7 @@ My Name Is Ferizqo, I'am 17 y.o
 ---
 
 - [Instagram](https://instagram.com/ferizqo)
+- 
 ![Discord](https://discord.c99.nl/widget/theme-3/699502281099575428.png)
 
 **Stats**
