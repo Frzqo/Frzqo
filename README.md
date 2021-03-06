@@ -2,7 +2,9 @@
 
 My Name Is Ferizqo, I'am 17 y.o
 
-![Hobby]
+**Hobby**
+---
+
 - Coding.
 - Learning for new experience.
 - Developing bot discord, website, apps(soon)
