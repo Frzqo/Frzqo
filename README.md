@@ -26,6 +26,6 @@ My Name Is Jordan/Fer, I'm From [Jakarta/Indonesia](https://www.google.com/maps/
 **Stats**
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferizqoo&layout=compact&theme=tokyonight)](https://github.com/ferizqoo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferizqoo&layout=compact&theme=tokyonight)](https://github.com/Jorrdann)
 
-[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=ferizqoo&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/ferizqoo)
+[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=ferizqoo&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Jorrdann)
