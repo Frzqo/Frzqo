@@ -14,7 +14,7 @@ My Name Is Fer, I'm From [Jakarta/Indonesia](https://www.google.com/maps/d/u/0/v
 - [Instagram](https://instagram.com/frizqq_)
 - [Github](https://github.com/Frzqo)
 
-![Discord](https://discord.c99.nl/widget/theme-1/699502281099575428.png)
+![Discord](https://discord.c99.nl/widget/theme-2/699502281099575428.png)
 
 **Stats**
 ---
