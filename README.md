@@ -5,17 +5,16 @@ My Name Is Fer, I'm From [Jakarta/Indonesia](https://www.google.com/maps/d/u/0/v
 **Hobby**
 ---
 
-- Coding.
-- Learning for new experience.
-- Developing bot discord, website (newbie)
+- Coding
+- Developing bot discord, website
 
 **Social Media**
 ---
 
 - [Instagram](https://instagram.com/frizqq_)
-- [Github](https://github.com/Jorrdann)
+- [Github](https://github.com/Frzqo)
 
-![Discord](https://discord.c99.nl/widget/theme-3/699502281099575428.png)
+![Discord](https://discord.c99.nl/widget/theme-1/699502281099575428.png)
 
 **Stats**
 ---
