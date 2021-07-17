@@ -3,9 +3,9 @@
 
 My Name Is Spaghetti-O
 
-Back-End Developer
-Part Time Web Developer
-Javascript, HTML and CSS
+- Back-End Developer
+- Part Time Web Developer
+- Javascript, HTML and CSS
 
 
 **Social Media**
