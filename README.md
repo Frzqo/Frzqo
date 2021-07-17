@@ -3,8 +3,7 @@
 
 My Name Is Spaghetti-O
 
-- Back-End Developer
-- Part Time Web Developer
+- Programming Enthusiast
 - Javascript, HTML and CSS
 
 
