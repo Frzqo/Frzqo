@@ -11,7 +11,7 @@ My Name Is Spaghetti-O
 **Social Media**
 ---
 
-- [Instagram](https://instagram.com/frizqq_)
+- [Instagram](https://instagram.com/frzqoo)
 - [Github](https://github.com/Frzqo)
 
 ![Discord](https://discord.c99.nl/widget/theme-2/699502281099575428.png)
@@ -19,6 +19,6 @@ My Name Is Spaghetti-O
 **Stats**
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frzqo&layout=compact&theme=tokyonight)](https://github.com/frzqo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spagghetti-O&layout=compact&theme=tokyonight)](https://github.com/Spagghetti-O)
 
-[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=frzqo&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/frzqo)
+[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=Spagghetti-O&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Spagghetti-O)
