@@ -3,10 +3,10 @@
 
 My Name Is Spaghetti-O
 
----
+Back-End Developer
+Part Time Web Developer
+Javascript, HTML and CSS
 
-- Coding
-- Developing bot discord, website
 
 **Social Media**
 ---
