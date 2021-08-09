@@ -1,8 +1,6 @@
 **CIAO!**
 ---
 
-My Name Is Spaghetti-O
-
 - Programming Enthusiast
 - Javascript, HTML and CSS
 
